@@ -1,3 +1,5 @@
+# NAME : NAVEEN KUMAR T
+# REG NO : 212223220067
 # Echoserver
 Echo server and client using python socket
 # AIM:
@@ -85,10 +87,13 @@ httpd.serve_forever()
 ```
 
 
-## OUTPUT:
-### CLIENT OUTPUT:
+## OUTPUT :
 
-### SERVER OUTPUT:
+                                                                                                                         CLIENT AND SERVER OUTPUT
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      <img width="1863" height="970" alt="Screenshot 2025-08-11 034230" src="https://github.com/user-attachments/assets/f4a417ea-f369-407b-b980-65e9a4beb84f" />
+
 
 ## RESULT:
 The program is executed succesfully
